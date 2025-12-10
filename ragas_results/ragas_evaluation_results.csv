@@ -1,0 +1,7 @@
+llm_model,embedding_model,num_chunks,evaluation_llm,timestamp,answer_relevancy,faithfulness
+gpt-4.1-nano,text-embedding-3-small,10,gpt-4.1-mini,2025-09-25 09:40:23,0.876261906316453,0.9829870129870131
+gpt-4.1-mini,text-embedding-3-small,10,gpt-4.1-mini,2025-09-25 10:17:36,0.8775469506669173,0.985442679301375
+o4-mini,text-embedding-3-small,10,gpt-4.1-mini,2025-09-25 14:11:45,0.8545316225323007,0.9947448979591839
+gpt-4.1,text-embedding-3-small,10,gpt-4.1-mini,2025-09-25 14:53:50,0.8575285924125363,0.9929846938775512
+claude-sonnet-4,text-embedding-3-small,10,gpt-4.1-mini,2025-09-26 08:57:17,0.8675119368217826,0.9908527583527584
+claude-sonnet-4,text-embedding-3-small,5,gpt-4.1-mini,2025-09-26 09:49:31,0.9999999998999999,0.9916666666666667,0.8625706563965811,0.9887925170068028

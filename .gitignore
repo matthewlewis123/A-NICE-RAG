@@ -1,0 +1,12 @@
+*.db
+*.md
+*.json
+*.jsonl
+*.pkl
+*.sqlite
+*.sqlite3
+databases/*.db
+databases/*.pkl
+databases/*.sqlite
+databases/*.sqlite3
+data/chunks_bm25.csv

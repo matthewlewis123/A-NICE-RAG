@@ -1,0 +1,10 @@
+Model,MRR,Recall@1,Recall@5,Recall@10,Recall@15,Median_Rank,Mean_Rank,Max_Rank
+Voyage-3-Large,0.826,0.718,0.962,0.985,0.993,1.0,1.836,251
+Voyage-3.5,0.788,0.665,0.943,0.978,0.987,1.0,2.236,262
+Text-Embedding-3-Large,0.749,0.615,0.924,0.970,0.983,1.0,2.571,292
+Qwen3-Embedding-0.6B,0.776,0.653,0.933,0.973,0.984,1.0,2.697,767
+BM25,0.625,0.482,0.806,0.887,0.924,2.0,14.151,9908
+Voyage-3-Large + BM25,0.814,0.699,0.960,0.989,0.995,1.0,1.829,185
+Voyage-3-Large + Text-Embedding-3-Large,0.819,0.707,0.960,0.988,0.994,1.0,1.810,70
+Voyage-3-Large + BM25 (Reranker-2-Lite),N/A,0.779,0.977,0.990,0.995,N/A,N/A,N/A
+Voyage-3-Large + BM25 (Reranker-2),N/A,0.810,0.982,0.991,0.995,N/A,N/A,N/A
